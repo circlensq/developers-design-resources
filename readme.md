@@ -734,7 +734,6 @@
 | [Midnight.js](https://aerolab.github.io/midnight.js/)| Midnight.js lets you switch fixed headers on the fly |
 | [Tingle.js](https://tingle.robinparisi.com/)| Tingle is a simple modal plugin written in pure JavaScript |
 | [Theatre.js](https://www.theatrejs.com/)| Theatre.js is a JavaScript animation library with a GUI. It animates the DOM, WebGL, and any other JavaScript variable. |
-| [splidejs](https://splidejs.com/)| Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors. |
 | [nice-waves](https://gvguy.github.io/nice-waves/)| Beautiful animated waves |
 | [Vanta.js](https://www.vantajs.com/)| Animated website backgrounds in a few lines of code. |
 | [Splitting.js](https://splitting.js.org/)| Splitting creates elements and adds CSS variables to unlock amazing possibilities for animating text, grids, and more! |
@@ -1048,6 +1047,7 @@
 | [SnackUI](https://github.com/snackui/snackui)| SnackUI is a UI Kit for React Native + react-native-web that's much faster rocket with an optimizing compiler.  |
 | [Moti](https://moti.fyi/)| Moti is the universal animation package for React Native  |
 | [Tamagui](https://tamagui.dev/)| Universal React design systems that optimize for native & web.  |
+| [Reanimated](https://docs.swmansion.com/react-native-reanimated/)| React Native's Animated library reimplemented.|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
