@@ -1266,6 +1266,7 @@
 | [a-fresh.website](https://a-fresh.website)| Hand—picked website and component inspiration library. |
 | [bestwebdesigntools](https://www.bestwebdesigntools.com/)| Discover latest design tools, agencies and landing pages templates across web|
 | [App Motion](https://appmotion.design/)| Explore the best, hand-picked app motion design |
+| [SEESAW](https://www.seesaw.website/)| Browse the best of the internet. Hand-picked and updated daily |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
