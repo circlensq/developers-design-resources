@@ -483,7 +483,6 @@
 | [Windi CSS](https://windicss.org/) | Next generation compiler for Tailwind CSS |
 | [Cirrus CSS](https://cirrus-ui.netlify.app/) | A component and utility centric SCSS framework designed for rapid prototyping. |
 | [Gutenberg](https://github.com/BafS/Gutenberg) | Modern framework to print the web correctly. |
-| [Arwes](https://github.com/arwes/arwes) | Arwes is a web framework to build user interfaces based on futuristic science fiction designs, animations, and sound effects. |
 | [Bojler](https://bojler.slicejack.com/) | Bojler is an email framework for developing responsive and lightweight email templates that will render correctly across each of the most popular email clients. |
 | [Tacit](https://github.com/yegor256/tacit) | Primitive CSS Framework for dummies, without classes. |
 | [Terminal CSS](https://terminalcss.xyz/) | A modern and minimal CSS framework for terminal lovers. |
@@ -632,7 +631,6 @@
 | [ui-playbook](https://uiplaybook.dev/)| The documented collection of UI components |
 | [ReactStrap](https://reactstrap.github.io/)| Another Bootstrap UI library for React |
 | [React Admin](https://marmelab.com/react-admin/)| A frontend Framework for building admin applications. Supports API's out of the box|
-| [BlueprintJS](https://blueprintjs.com/)| React-based UI toolkit for the web |
 | [Shards React](https://designrevision.com/downloads/shards-react/)| React UI kit featuring a modern design system with dozens of custom components  |
 | [React Virtualized](https://bvaughn.github.io/react-virtualized)| UI set for data. Includes tables, lists, sorting, etc. |
 | [React Toolbox](http://react-toolbox.io/#/)| Material design UI library for React |
@@ -816,7 +814,6 @@
 | [StyleGuides.io](http://styleguides.io/)| A directory of 500+ styleguides |
 | [Skoda Brand System](https://skoda-brand.com/explore-our-brand) | Design guideline for developing applications under the Skoda brand |
 | [Spectrum](https://spectrum.adobe.com/) | Adobe’s design system that provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive. |
-| [Asphalt](https://asphalt.gojek.io/) | Gojek’s design language system. A collection of guidelines and components to create amazing user experiences. |
 | [Laws of UX](https://lawsofux.com/) | A collection of the key maxims that designers must consider when building user interfaces. |
 | [Checklist Design](https://www.checklist.design/) | Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets. |
 | [Humane By Design](https://humanebydesign.com/) | A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being. |
@@ -876,7 +873,6 @@
 | [Yellow Lab Tools](https://yellowlab.tools/) | Online test to help speeding up heavy web pages |
 | [Framer](https://www.framer.com/) | Is prototyping tool for teams |
 | [Draw.io](https://www.draw.io/) | Free online diagram editor tool |
-| [UXWing SVG Editor](https://uxwing.com/svg-icon-editor)| Creating and Edit SVG Online |
 | [Lucidchart](https://www.lucidchart.com/pages/)| Diagramming and visualization tools that allows creating databases, flowcharts, boards, floor-maps, and much more. 3 multi-page documents on the free tier |
 | [Carbon](https://carbon.now.sh)| Create and share beautiful images of your source code by typing or drop a file. |
 | [PixCleaner](https://www.pixcleaner.com/)| Accurate and hassle free background removal tool |
@@ -890,7 +886,6 @@
 | [Ray.so](https://ray.so/)| Online tool to create beautiful images of your code. |
 | [Codepng](https://www.codepng.app/)| Convert your source code into awesome shareable images. |
 | [CSS Grid Generator](https://grid.layoutit.com/)| A tool for creating CSS Grid Layouts |
-| [JSONT](https://www.jsont.run/)| A simple and powerful online JSON formatting tool |
 | [Jitter](https://jitter.video/)| Online tool to create motion graphics/design|
 | [Visily](https://www.visily.ai)| Tool that empowers *non-designers* to design web and mobile app mockups |
 | [okso.app](https://okso.app) | The drawing app with a nested "drawing-inside-the-drawing" structure |
@@ -975,7 +970,6 @@
 | [CompressNow](https://compressnow.com/)| JPEG, GIF, PNG Compression |
 | [Promo Image Resizer](https://promo.com/tools/image-resizer/)| Free Image and Photo Resizer |
 | [Image Optimizer](http://www.imageoptimizer.net/)| Image Optimizer Free With Quality Options |
-| [SVGminify](https://www.svgminify.com/)| This tool removes superfluous information, thereby reducing the size of your SVG files |
 | [JPEG Optimizer](http://jpeg-optimizer.com/)| Free online tool for resizing and compressing digital photos and images for displaying on the web |
 | [EZGif](https://ezgif.com/)| Animated GIF maker and Image editor including Image optimization and supports WebP conversion |
 | [OnlinePngtools](https://onlinepngtools.com/resize-png)| Resize png for without losing transparent background. |
