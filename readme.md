@@ -951,6 +951,7 @@
 | [Bento Grids](https://bentogrids.com/)| Bento Grids is a curated collection of tiles-based layouts that were popularized by Apple with their summary slides. |
 | [Landing Gallery](https://www.landing.gallery/)| Home of the best landing page design inspiration. |
 | [a-fresh.website](https://a-fresh.website)| Hand—picked website and component inspiration library. |
+| [Stack Sorted](https://stacksorted.com/buttons)| Collection of the web's best designs sorted by elements. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
