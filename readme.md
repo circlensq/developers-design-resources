@@ -638,7 +638,6 @@
 | [Theme UI](https://theme-ui.com)| Build consistent, themeable React apps based on constraint-based design principles |
 | [Onsen React](https://onsen.io/react/)| Distributes Components for hybrid mobile apps with React and Onsen UI |
 | [Evergreen](https://evergreen.segment.com/)| Design system for React |
-| [Rebass](https://github.com/rebassjs/rebass)| React primitive UI components built with styled system |
 | [Grommet](https://v2.grommet.io/)| mobile first UI component library |
 | [Landing Page Template](https://github.com/cruip/open-react-template/)| Open source landing page template for react |
 | [Elemental UI](http://elemental-ui.com/)| A UI Toolkit for React.js Websites and Apps |
@@ -656,7 +655,7 @@
 | [Geist](https://geist-ui.dev/en-us) | An open source design system for building modern websites and applications. |
 | [Framer Motion](https://www.framer.com/motion/) | A React library to power production-ready animations. |
 | [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/index.html) | A React implementation of Spectrum, Adobe’s design system. |
-| [@tsparticles/react](https://github.com/tsparticles/react)| A lightweight React component for creating particles |
+| [tsparticles](https://particles.js.org/)| A lightweight TypeScript library for creating particles. |
 | [particles-bg](https://github.com/lindelof/particles-bg)| A React particles animation background component |
 | [Treact](https://treact.owaiskhan.me)| Gallery of free and modern React templates and UI components developed using TailwindCSS as the front-end framework |
 | [OAH-Admin](https://gatsby-admin.paljs.com/extra-components/progress/)| a free React admin dashboard template based on Gatsby with oah-ui components and elements package. |
