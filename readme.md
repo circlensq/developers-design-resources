@@ -18,7 +18,7 @@
 - [HTML & CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
 - [CSS Animations](#css-animations)
-- [Javascript Animation Libraries](#javascript-animation-libraries)
+- [JavaScript Animation Libraries](#javascript-animation-libraries)
 - [UI Components & Kits](#ui-components--kits)
 - [React UI Libraries](#react-ui-libraries)
 - [Vue UI Libraries](#vue-ui-libraries)
@@ -152,7 +152,6 @@
 | [BRAND PALETTES](https://brandpalettes.com/) | Logo Color Codes and Palettes  |
 | [Colorate](https://colorate.azurewebsites.net/) | Color scheme tool for designers and developers. This will help you draw inspiration and serve as a resource for your color work. |
 | [0to255](https://www.0to255.com/) | A color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more. |
-| [Color Blender](https://meyerweb.com/eric/tools/color-blend) | A tool that shows the midpoint colors between two colors
 | [whocanuse](https://whocanuse.com) | A tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
 | [Colorable](https://colorable.jxnblk.com/) | Color combination contrast tester |
 | [Color Hex Picker](https://colorhexpicker.com) | Tool to get hex code along with name of the color. |
@@ -527,9 +526,9 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Javascript Animation Libraries
+## JavaScript Animation Libraries
 
->javascript animations libraries to build awesome animations for websites and applications
+>JavaScript animations libraries to build awesome animations for websites and applications
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
@@ -586,7 +585,7 @@
 | [Tailwindtoolbox](https://www.tailwindtoolbox.com/)| Open source starter templates and components, a plugins directory and useful tools/utilities to kick start your Tailwind CSS project. |
 | [tailwindcomponents](https://tailwindcomponents.com/)| A free repository for community components using TailwindCSS |
 | [sweetalert](https://sweetalert.js.org/)| SweetAlert makes popup messages easy and pretty. |
-| [sweetalert2](https://sweetalert2.github.io/)| A beautiful, responsive, customizable, accessible replacement for javascript's popup boxes |
+| [sweetalert2](https://sweetalert2.github.io/)| A beautiful, responsive, customizable, accessible replacement for JavaScript's popup boxes |
 | [tailblocks](https://mertjf.github.io/tailblocks/)| Open source ready-to-use Tailwind CSS components. |
 | [Fast](https://www.fast.design/)| An interface system that can be used with modern Web Frameworks such as React, Vue and Angular. |
 | [LottieFiles ](https://lottiefiles.com/)| Interactive animations in many formats like json,gif and mp4, libraries and plugins for Web & Mobile . |
@@ -929,13 +928,13 @@
 | [Dribbble](https://dribbble.com/)| Design projects featured by different creators |
 | [Landingfolio](https://landingfolio.com/)| Landingfolio features the best landing page inspiration, templates, resources and examples on the web. |
 | [Foxyapps](https://foxyapps.co/)| Design inspiration from the best mobile app designs |
-| [Frontend Mentor](https://www.frontendmentor.io/)| Real-world UI Challenges using HTML, CSS and Javascript |
+| [Frontend Mentor](https://www.frontendmentor.io/)| Real-world UI Challenges using HTML, CSS and JavaScript |
 | [Awwwards](https://www.awwwards.com/)| A website that rate and collects the best websites in the world in UI |
 | [Codrops](https://tympanus.net/codrops/)| A website that collects the best UI ideas and patterns and make tutorials of it|
 | [SaaS Landing Page](https://saaslandingpage.com/)| Discover the best landing page examples created by top-class SaaS companies |
 | [Saaspages.xyz](https://saaspages.xyz)| A collection of the best landing pages with a focus on copywriting and design. |
 | [lapa ninja](https://www.lapa.ninja/)| Best landing page inspiration |
-| [Freefrontend](https://freefrontend.com/)| Free frontend design from css html and javascript. latest work some design part |
+| [Freefrontend](https://freefrontend.com/)| Free frontend design from css html and JavaScript. latest work some design part |
 | [Free Design Resource](https://freedesignresources.net/) | A site offering fonts, mockups, templates graphics and ui kits.  |
 | [Site Inspire](https://www.siteinspire.com/) |siteInspire is a showcase of the finest web and interactive design.  |
 | [NavNav](https://navnav.co/) | Responsive navigation examples |
@@ -1096,7 +1095,7 @@
 | [SVG Gobbler](https://github.com/rossmoody/svg-gobbler) | Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG. |
 | [shortcode.dev](https://shortcode.dev) | A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more. |
 | [30secondsofcode.org](https://www.30secondsofcode.org/) | A wide variety of snippet and article collections for CSS, JavaScript, Python and more. |
-| [PlayCode](https://playcode.io/) | Javascript playground.  |
+| [PlayCode](https://playcode.io/) | JavaScript playground.  |
 | [All The Tags](https://allthetags.com/) | All HTML tags briefly explained. |
 | [Vue Telemetry](https://vuetelemetry.com/) | Reveal the Vue plugins and technology stack powering any website or explore a database of 5500+ websites. |
 | [Grid.js](https://gridjs.io/) | Grid.js is a Free and open-source HTML table plugin written in TypeScript. It works with most JavaScript frameworks, including React, Angular, Vue and VanillaJs. |
@@ -1113,7 +1112,7 @@
 | [QR Code Generator](https://markodenic.com/tools/qr-code-generator/) | Use QR Code Generator to easily create a QR code for your project. |
 | [PapersDB](https://papersdb.com/) | The Biggest Paper Database with Sizes, Dimensions and Formats in Metric and Imperial units. |
 | [SETools.xyz](https://www.setools.xyz/) | Free Online tools  website for work |
-| [SmallDev.tools](https://SmallDev.tools/) | Free tool for developers to help with Beautify & Minify HTML/CSS/Javascript, and many other handy tools. With a delightful interface. |
+| [SmallDev.tools](https://SmallDev.tools/) | Free tool for developers to help with Beautify & Minify HTML/CSS/JavaScript, and many other handy tools. With a delightful interface. |
 | [Angry Tools](https://angrytools.com/) | Free web tools for speed up your development. |
 | [Rapid API](https://rapidapi.com/hub) | Discover and connect to thousands of APIs. |
 | [Readme.so](https://readme.so) | The easisest way to create a README. |
