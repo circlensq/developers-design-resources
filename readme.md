@@ -661,7 +661,6 @@
 | [Treact](https://treact.owaiskhan.me)| Gallery of free and modern React templates and UI components developed using TailwindCSS as the front-end framework |
 | [OAH-Admin](https://gatsby-admin.paljs.com/extra-components/progress/)| a free React admin dashboard template based on Gatsby with oah-ui components and elements package. |
 | [Carolina Admin Dashboard](https://demo.uifort.com/carolina-react-admin-dashboard-material-ui-free-demo/LandingPage)| Free React admin template is powered by Material-UI components framework and features a clean and fresh design following Google's Material Design specifications. |
-| [Tabler](https://github.com/tabler/tabler-react)| Tabler is a free React admin dashboard template ideal for any kind of back-end web application. |
 | [Sha-el-design](https://github.com/sha-el/sha-el-design)| React components for easier customization and smooth development flow. |
 | [React-WeUI](https://weui.github.io/react-weui/docs/#/react-weui/docs/page/0/articles/0)| React-WeUI made from our love of React and WeChat's WeUI Design. |
 | [Supabase UI](https://ui.supabase.io/)| An open-source UI component library inspired by Tailwind and AntDesign. |
