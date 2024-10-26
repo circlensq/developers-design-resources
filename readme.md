@@ -669,7 +669,7 @@
 | [React95](https://react95.io/)| Refreshed Windows 95 style UI components for your React app. |
 | [Reakit](https://reakit.io/)| Reakit is a lower level component library for building accessible high level UI libraries, design systems and applications with React. |
 | [Zent](https://github.com/youzan/zent)| A collection of essential UI components written with React. |
-| [Gestalt](https://github.com/pinterest/gestalt)| A set of React UI components that supports Pinterest’s design language. |
+| [Gestalt](https://gestalt.pinterest.systems/home)| A set of React UI components that supports Pinterest’s design language. |
 | [xstyled](https://xstyled.dev/)| A CSS-in-JS framework built for React with props based utilities like display, fontSize or rotate. |
 | [@use-gesture](https://github.com/pmndrs/use-gesture)| Bread n butter utility for component-tied mouse/touch gestures in React. |
 | [React Rainbow](https://react-rainbow.io/)| React Rainbow is a collection of components that will reliably help you build your application in a snap. |
@@ -677,14 +677,13 @@
 | [Choc UI](https://choc-ui.com/)| Choc UI is a set of accessible and reusable components that are commonly used in web applications. |
 | [Elementz](https://elementz.style/)| A React Component library for buliding modern applications easily & quickly. |
 | [Radix UI](https://www.radix-ui.com/)| Unstyled, accessible components for building high‑quality design systems and web apps in React |
-| [Chakra Templates](https://chakra-templates.dev/)| A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project. |
 | [React Resizable Panels](https://github.com/bvaughn/react-resizable-panels)| React components for resizable panel groups/layouts. |
 | [Carbon React](https://carbondesignsystem.com/developing/frameworks/react/)| Extensive library of React components for Websites and UI's. Based on the Carbon Design System from IBM |
 | [React Aria](https://react-spectrum.adobe.com/react-aria/) | A library of React Hooks that provides accessible UI primitives for your design system. |
 | [shadcn/ui](https://ui.shadcn.com/) | Beautifully designed components built with Radix UI and Tailwind CSS. |
 | [Tremor](https://tremor.so/) | React components to build charts and dashboards with |
 | [Aceternity UI](https://ui.aceternity.com/)| Copy paste the most trending components and use them in your websites without having to worry about styling and animations. |
-| [Magic UI](https://magicui.design/)| free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. | 
+| [Magic UI](https://magicui.design/)| Free and open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion. | 
 | [Code UI](https://www.codeui.co.in/)| Beautifully designied mobile responsive components built with HTML, CSS , JS and React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable. |
 | [Edil Ozi](https://www.edilozi.pro/)| Component Library for Developers. Open Source components you can copy and paste to your apps. |
 | [NumberFlow](https://number-flow.barvian.me/)| A React component to transition, localize, and format numbers. Dependency-free. Accessible. Customizable. |
