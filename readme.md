@@ -25,7 +25,7 @@
 - [Angular UI Libraries](#angular-ui-libraries)
 - [Svelte UI Libraries](#svelte-ui-libraries)
 - [React Native UI Libraries](#react-native-ui-libraries)
-- [Design Systems & Style Guides](#design-systems--style-guides)
+- [Design Systems](#design-systems)
 - [Online Design Tools](#online-design-tools)
 - [Downloadable Design Software](#downloadable-design-software)
 - [Design Inspiration](#design-inspiration)
