@@ -780,7 +780,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Design Systems & Style Guides
+## Design Systems
 
 >Design systems, style guides, toolkits, docs. Some of these are design guides for top companies/websites
 
