@@ -1069,7 +1069,7 @@
 
 ## Others
 
->Uncategorized Stuff
+>Variety of utilities, cheatsheets, and tools
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
 | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
