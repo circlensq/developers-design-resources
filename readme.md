@@ -170,7 +170,7 @@
 | [Encycolorpedia](https://encycolorpedia.com/) | Website for referencing web colors. Color knowledge, Web colors, Hex color codes. |
 | [Color Designer](https://colordesigner.io/gradient-generator) | A gradient generetor from one color. |
 | [coolbackgrounds generator](https://coolbackgrounds.io/) | Explore a beautifully curated selection of cool backgrounds that you can add to blogs, websites. |
-| [Color Shades Generator](https://mdigi.tools/color-shades/) | We can quickly generate color shades of our favorite colors or any colors, to create templates or css components with multiple color shades and more useful tools available on same site |
+| [Color Shades Generator](https://mdigi.tools/color-shades/) | We can quickly generate color shades of our favorite colors or any colors, to create templates or CSS components with multiple color shades and more useful tools available on same site |
 | [Huemint](https://huemint.com/) | Huemint uses machine learning to create unique color schemes for your brand, website or graphic |
 
 <div align="right">
@@ -590,7 +590,7 @@
 | [Fast](https://www.fast.design/)| An interface system that can be used with modern Web Frameworks such as React, Vue and Angular. |
 | [LottieFiles ](https://lottiefiles.com/)| Interactive animations in many formats like json,gif and mp4, libraries and plugins for Web & Mobile . |
 | [Kutty](https://kutty.netlify.app/)| A set of accessible and reusable prebuilt Tailwind components that are commonly used in web applications. |
-| [Meraki UI Components](https://merakiui.com/)| Beautiful Tailwindcss components that support RTL languages & fully responsive based on Flexbox & CSS Grid. |
+| [Meraki UI Components](https://merakiui.com/)| Beautiful TailwindCSS components that support RTL languages & fully responsive based on Flexbox & CSS Grid. |
 | [Stitches](https://stitches.dev/)| CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. |
 | [Headless UI](https://headlessui.dev/)| Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. |
 | [Styled components](https://styled-components.com/)| Build beautifully UI Components, for your applications & websites. |
@@ -855,7 +855,7 @@
 | [Excalidraw](https://excalidraw.com/)| Virtual whiteboard for sketching hand-drawn like diagrams  |
 | [Mermaid](https://github.com/mermaid-js/mermaid)| renders Markdown-inspired text definitions to create and modify diagrams (like flowchart, sequence diagram, gantt, or user journey) dynamically. (FOSS)  |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map  |
-| [Grid Malven](http://grid.malven.co/)| A css grid cheatsheet to reference when creating a css grid  |
+| [Grid Malven](http://grid.malven.co/)| A CSS grid cheatsheet to reference when creating a CSS grid  |
 | [Flex Malven](http://flexbox.malven.co/)| A flexbox grid cheatsheet to reference when working with flexbox |
 | [Smart Upscaler](https://icons8.com/upscaler) | Upscale images by 2-4x resolution (4 free) |
 | [GetAvataaars](https://getavataaars.com/) | Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library |
@@ -932,7 +932,7 @@
 | [SaaS Landing Page](https://saaslandingpage.com/)| Discover the best landing page examples created by top-class SaaS companies |
 | [Saaspages.xyz](https://saaspages.xyz)| A collection of the best landing pages with a focus on copywriting and design. |
 | [lapa ninja](https://www.lapa.ninja/)| Best landing page inspiration |
-| [Freefrontend](https://freefrontend.com/)| Free frontend design from css html and JavaScript. latest work some design part |
+| [Freefrontend](https://freefrontend.com/)| Free frontend design from CSS html and JavaScript. latest work some design part |
 | [Free Design Resource](https://freedesignresources.net/) | A site offering fonts, mockups, templates graphics and ui kits.  |
 | [Site Inspire](https://www.siteinspire.com/) |siteInspire is a showcase of the finest web and interactive design.  |
 | [NavNav](https://navnav.co/) | Responsive navigation examples |
@@ -1090,8 +1090,8 @@
 | [Codepen](https://codepen.io/) | Build, test and discover frontend code. |
 | [Responsively](https://responsively.app) | A tool for designers and frontend developers to design and debug their in all platforms with ease |
 | [html2pdf.js](https://ekoopmans.github.io/html2pdf.js/) | Client-side HTML-to-PDF rendering using pure JS. |
-| [CSS Reference](https://cssreference.io/) | A collection of all css properties and definitions in detail |
-| [Critical Path CSS Generator](https://www.sitelocity.com/critical-path-css-generator) | Generate critical css for your web pages |
+| [CSS Reference](https://cssreference.io/) | A collection of all CSS properties and definitions in detail |
+| [Critical Path CSS Generator](https://www.sitelocity.com/critical-path-css-generator) | Generate critical CSS for your web pages |
 | [SVG Gobbler](https://github.com/rossmoody/svg-gobbler) | Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG. |
 | [shortcode.dev](https://shortcode.dev) | A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more. |
 | [30secondsofcode.org](https://www.30secondsofcode.org/) | A wide variety of snippet and article collections for CSS, JavaScript, Python and more. |
@@ -1120,7 +1120,7 @@
 | [tldraw](https://www.tldraw.com) | A tiny little drawing app. |
 | [Troopl](https://troopl.com) | Build and publish a free portfolio in minutes. |
 | [Apifox](https://apifox.cn) | Apifox = Postman + Swagger + Mock + JMeter |
-| [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the css styling of all HTML elements to a consistent baseline across browsers. |
+| [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) | Resets the CSS styling of all HTML elements to a consistent baseline across browsers. |
 | [Clipperly](https://clipperly.com/) | All-in-one free online file service, convert, edit and optimize your files.  |
 | [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) | Test and optimize page load speed |
 | [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/) | An interactive cheatsheet of Vue, Vue Router, and Pinia. The only Vue CheatSheet you will ever need. |
