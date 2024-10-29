@@ -462,9 +462,9 @@
 | [css-doodle](https://css-doodle.com/) | A web component for drawing patterns with CSS |
 | [Windi CSS](https://windicss.org/) | Next generation compiler for Tailwind CSS |
 | [Cirrus CSS](https://cirrus-ui.netlify.app/) | A component and utility centric SCSS framework designed for rapid prototyping. |
-| [Gutenberg](https://github.com/BafS/Gutenberg) | Modern framework to print the web correctly. |
+| [Gutenberg](https://bafs.github.io/Gutenberg/) | Modern framework to print the web correctly. |
 | [Bojler](https://bojler.slicejack.com/) | Bojler is an email framework for developing responsive and lightweight email templates that will render correctly across each of the most popular email clients. |
-| [Tacit](https://github.com/yegor256/tacit) | Primitive CSS Framework for dummies, without classes. |
+| [Tacit](https://yegor256.github.io/tacit/) | Primitive CSS Framework for dummies, without classes. |
 | [Terminal CSS](https://terminalcss.xyz/) | A modern and minimal CSS framework for terminal lovers. |
 | [PSone](https://micah5.github.io/PSone.css/) | PS1 style CSS Framework, inspired by NES.css. |
 | [Axentix](https://useaxentix.com/) | Axentix is an open source Framework based on CSS Grid using HTML, CSS and JS. |
@@ -590,7 +590,6 @@
 | ----------------------- | ------------------ |
 | [Material UI](https://material-ui.com/)| React components for faster and easier web development, based on Material Design |
 | [Chakra UI](https://chakra-ui.com/)| Build accessible React apps & websites with speed. [Openchakra](https://openchakra.app/) |
-| [React Bootstrap](https://react-bootstrap.github.io/)| Bootstrap rebuilt for React. Include Bootstrap components right in your JavaScript |
 | [Semi Design](https://semi.design/en-US)| A modern, comprehensive, flexible design system that gives you all modular blocks you need to build sensible web apps & SaaS products. |
 | [Mantine](https://mantine.dev/)| React components and hooks library with native dark theme support focused on usability, accessibility and developer experience. |
 | [NextUI](https://nextui.org/)| Beautiful, fast and modern React UI library that allows you to create beatiful websites regardless of your design experience. |
@@ -600,8 +599,6 @@
 | [React Admin](https://marmelab.com/react-admin/)| A frontend Framework for building admin applications. Supports API's out of the box|
 | [Shards React](https://designrevision.com/downloads/shards-react/)| React UI kit featuring a modern design system with dozens of custom components  |
 | [React Virtualized](https://bvaughn.github.io/react-virtualized)| UI set for data. Includes tables, lists, sorting, etc. |
-| [React Toolbox](http://react-toolbox.io/#/)| Material design UI library for React |
-| [Elastic UI](https://elastic.github.io/eui/#/)| Distributes UI React components and static assets for use in building web layouts |
 | [Theme UI](https://theme-ui.com)| Build consistent, themeable React apps based on constraint-based design principles |
 | [Onsen React](https://onsen.io/react/)| Distributes Components for hybrid mobile apps with React and Onsen UI |
 | [Evergreen](https://evergreen.segment.com/)| Design system for React |
