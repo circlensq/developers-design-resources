@@ -604,7 +604,6 @@
 |[DevUI](https://www.devui.io/) | Free and Open-Source UI Components for Maximum Productivity. |
 |[Tail-Kit](https://www.tailwind-kit.com/) | Tail-kit gives you access to over 250 free components and free templates, based on Tailwind CSS 3.0. |
 |[Konsta UI](https://konstaui.com/) | Pixel perfect mobile UI components built with Tailwind CSS |
-|[Sonner](https://sonner.emilkowal.ski/) | An opinionated toast component for React. |
 |[Pines](https://devdojo.com/pines) | Pines is a library of animations, sliders, tooltips, accordions, modals, and more! It's a set of UI elements that can be copy and pasted into any Alpine and Tailwind projects. |
 |[Flyon UI](https://flyonui.com/) | The Easiest Components Library For Tailwind CSS.|
 
@@ -685,6 +684,7 @@
 | [Code UI](https://www.codeui.co.in/)| Beautifully designied mobile responsive components built with HTML, CSS , JS and React, Typescript, Tailwind CSS, and Framer Motion. 100% open-source, and customizable. |
 | [Edil Ozi](https://www.edilozi.pro/)| Component Library for Developers. Open Source components you can copy and paste to your apps. |
 | [NumberFlow](https://number-flow.barvian.me/)| A React component to transition, localize, and format numbers. Dependency-free. Accessible. Customizable. |
+|[Sonner](https://sonner.emilkowal.ski/) | An opinionated toast component for React. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
