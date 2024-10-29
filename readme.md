@@ -950,6 +950,7 @@
 | [a-fresh.website](https://a-fresh.website)| Hand—picked website and component inspiration library. |
 | [Stack Sorted](https://stacksorted.com/buttons)| Collection of the web's best designs sorted by elements. |
 | [Mobbin](https://mobbin.com/)| Discover real-world design inspiration. |
+| [Dark Mode Design](https://mobbin.com/)| A showcase of beautifully designed and inspiring dark mode websites. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
