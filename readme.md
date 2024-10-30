@@ -488,7 +488,6 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [Anime.js](https://animejs.com/)| Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects  |
 | [Magic Animations](https://www.minimamente.com/project/magic/)| Animations has been one of the most impressive animation libraries available |
 | [Zdog](https://zzz.dog/)| Round, flat, designer-friendly pseudo-3D engine for canvas & SVG |
 | [Animista](http://animista.net/)| CSS Animations On Demand |
@@ -534,6 +533,7 @@
 | [Theatre.js](https://www.theatrejs.com/)| Theatre.js is a JavaScript animation library with a GUI. It animates the DOM, WebGL, and any other JavaScript variable. |
 | [Splitting.js](https://splitting.js.org/)| Splitting creates elements and adds CSS variables to unlock amazing possibilities for animating text, grids, and more! |
 | [Motion One](https://motion.dev/)| A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance. |
+| [Anime.js](https://animejs.com/)| Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
