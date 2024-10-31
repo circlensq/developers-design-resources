@@ -1068,6 +1068,7 @@
 | [appydev](https://appydev.co/) | A collection of awesome tools, resources and products for people who create and live on the internet. |
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
+| [Cosmos](https://www.cosmos.so/)| A discovery engine for creatives. Save anything on the web, curate into clusters, and share with the world. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
