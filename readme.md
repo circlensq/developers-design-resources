@@ -27,7 +27,7 @@
 - [React Native UI Libraries](#react-native-ui-libraries)
 - [Design Systems](#design-systems)
 - [Online Design Tools](#online-design-tools)
-- [Downloadable Design Software](#downloadable-design-software)
+- [Design Software](#design-software)
 - [Design Inspiration](#design-inspiration)
 - [Image Compression](#image-compression)
 - [Chrome Extensions](#chrome-extensions)
