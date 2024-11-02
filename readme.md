@@ -853,7 +853,7 @@
 | [Gravit Designer](https://www.designer.io/en/)| Free full-featured vector graphic design app that works on ALL platforms  |
 | [Blender](https://www.blender.org/download/)| Open source, free animation, 3D modeling, etc. |
 | [Be Funky](https://www.befunky.com/features/graphic-designer/)| Online design program |
-| [Krita](https://krita.org/en/download/krita-desktop/)| Sketching and painting program designed for digital artists |
+| [Krita](https://krita.org/en/)| A professional FREE and open source painting program. |
 | [Pencil Project](https://pencil.evolus.vn/)| GUI prototyping software |
 | [Adobe XD](https://www.adobe.com/products/xd.html)| Free design tool from Adobe |
 | [Lunacy](https://icons8.com/lunacy) | Sketch for Windows |
