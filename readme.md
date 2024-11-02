@@ -346,7 +346,6 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [YouTube Studio Audio Library](https://www.youtube.com/audiolibrary)| Royalty-free audio library for downloadable music and sound effects. Cleared for YouTube monetization. |
 | [Free Stock Music](https://www.free-stock-music.com/)| Royalty free stock music for YouTube videos, podcasts, etc |
 | [Mixkit](https://mixkit.co/free-stock-music/)| Free music for your projects |
 | [Freesound](https://freesound.org/)| Free stock music and sounds |
