@@ -402,7 +402,6 @@
 | [Mock.Video](https://www.mock.video/)| Instantly create mockups by adding a device frame to your videos. |
 | [MockupBro](https://mockupbro.com/)| Create product mockups with online mockup generator! Just choose a mockup, upload your design and download your image without a watermark. |
 | [Pika](https://pika.style)| Instantly create browser mockups and beautiful images for marketing, blog post and more |
-| [Lunacy](https://icons8.com/lunacy)| Create mockups from scratch for free  |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -855,13 +854,12 @@
 | [Be Funky](https://www.befunky.com/features/graphic-designer/)| Online design program |
 | [Krita](https://krita.org/en/)| A professional FREE and open source painting program. |
 | [Pencil Project](https://pencil.evolus.vn/)| GUI prototyping software |
-| [Adobe XD](https://www.adobe.com/products/xd.html)| Free design tool from Adobe |
-| [Lunacy](https://icons8.com/lunacy) | Sketch for Windows |
+| [Lunacy](https://icons8.com/lunacy) | Free design software that keeps your flow with AI tools and built-in graphics. |
 | [InVision Studio](https://www.invisionapp.com/studio)| Free screen designing tool from InVision |
-| [Inpixio photo Editor](https://www.inpixio.com/free-photo-editor)| Free Photo Editor: For windows only |
+| [Inpixio photo Editor](https://www.inpixio.com/)| The world's best online photo editor to remove backgrounds, change backgrounds and convert image files! |
 | [Colorpicker](https://colorpicker.fr)| Open Source colors software: Retrieve, manipulate and store your colors easily! |
 | [Google Web Designer](https://webdesigner.withgoogle.com/)| Create engaging, interactive HTML5-based designs and motion graphics that can run on any device. |
-| [Origami Studio](https://origami.design)| Interactive interface design tool created by Facebook: For mac only |
+| [Origami Studio](https://origami.design)| Interactive interface design tool created by Facebook.|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
