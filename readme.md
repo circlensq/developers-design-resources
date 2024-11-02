@@ -818,7 +818,7 @@
 | [Kodeshot](https://www.kodeshot.net/) | Convert your source code into nice pictures for your articles, tweets, messages, posts... |
 | [Wix](https://www.wix.com/) | Create a Website You’re Proud Of |
 | [Yellow Lab Tools](https://yellowlab.tools/) | Online test to help speeding up heavy web pages |
-| [Framer](https://www.framer.com/) | Is prototyping tool for teams |
+| [Framer](https://www.framer.com/) | Design and publish modern sites at any scale with Framer's web builder. |
 | [Draw.io](https://www.draw.io/) | Free online diagram editor tool |
 | [Lucidchart](https://www.lucidchart.com/pages/)| Diagramming and visualization tools that allows creating databases, flowcharts, boards, floor-maps, and much more. 3 multi-page documents on the free tier |
 | [Carbon](https://carbon.now.sh)| Create and share beautiful images of your source code by typing or drop a file. |
