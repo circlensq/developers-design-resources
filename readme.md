@@ -805,7 +805,7 @@
 | [Blobmaker](https://www.blobmaker.app/)| Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes.  |
 | [Personas](https://personas.draftbit.com/)| A playful avatar generator for the modern age  |
 | [Photopea](https://www.photopea.com)| An Online Photoshop editor  |
-| [Mermaid](https://github.com/mermaid-js/mermaid)| renders Markdown-inspired text definitions to create and modify diagrams (like flowchart, sequence diagram, gantt, or user journey) dynamically. (FOSS)  |
+| [Mermaid](https://mermaid.js.org/)| renders Markdown-inspired text definitions to create and modify diagrams (like flowchart, sequence diagram, gantt, or user journey) dynamically. (FOSS)  |
 | [MapInSeconds](http://mapinseconds.com/)| Simple way to visualize your data with a map  |
 | [Grid Malven](http://grid.malven.co/)| A CSS grid cheatsheet to reference when creating a CSS grid  |
 | [Flex Malven](http://flexbox.malven.co/)| A flexbox grid cheatsheet to reference when working with flexbox |
@@ -844,7 +844,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Downloadable Design Software
+## Design Software
 
 >Free software for UI, photo, 3d modeling, etc. Alternatives to paid software like Photoshop
 
