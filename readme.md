@@ -732,7 +732,6 @@
 | [Shoutem UI](https://shoutem.github.io/docs/ui-toolkit/introduction)| Shoutem UI toolkit enables you to build professionally looking React Native apps with ease.  |
 | [Moti](https://moti.fyi/)| Moti is the universal animation package for React Native |
 | [Tamagui](https://tamagui.dev/)| Universal React design systems that optimize for native & web. |
-| [Restyle](https://shopify.github.io/restyle/)| A type-enforced system for building UI components in React Native with TypeScript. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
