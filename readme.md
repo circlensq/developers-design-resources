@@ -728,10 +728,11 @@
 | ----------------------- | ------------------ |
 | [React Native Paper](https://reactnativepaper.com/)| React Native Paper is a high-quality, standard-compliant Material Design library that has you covered in all major use-cases |
 | [React Native Elements](https://reactnativeelements.com/)| Cross Platform React Native UI Toolkit that provides an all-in-one UI kit for creating apps in react native.  |
-| [NativeBase](https://nativebase.io/)| Essential cross-platform UI components for React Native & Vue Native.  |
+| [NativeBase](https://nativebase.io/)| Essential cross-platform UI components for React Native & Vue Native. |
 | [Shoutem UI](https://shoutem.github.io/docs/ui-toolkit/introduction)| Shoutem UI toolkit enables you to build professionally looking React Native apps with ease.  |
-| [Moti](https://moti.fyi/)| Moti is the universal animation package for React Native  |
-| [Tamagui](https://tamagui.dev/)| Universal React design systems that optimize for native & web.  |
+| [Moti](https://moti.fyi/)| Moti is the universal animation package for React Native |
+| [Tamagui](https://tamagui.dev/)| Universal React design systems that optimize for native & web. |
+| [Restyle](https://shopify.github.io/restyle/)| A type-enforced system for building UI components in React Native with TypeScript. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -1069,6 +1070,7 @@
 | [RunJS](https://runjs.app/play) | Free online JavaScript playground.  |
 | [Pillarstack](https://www.pillarstack.com/) | Assorted resources for frontend developers and web designers.  |
 | [Cosmos](https://www.cosmos.so/)| A discovery engine for creatives. Save anything on the web, curate into clusters, and share with the world. |
+| [SVG Doodles](https://svgdoodles.com/)| A free collection of different editable SVG's to spice up your online and offline designs. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
