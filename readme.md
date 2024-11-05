@@ -12,7 +12,7 @@
 - [Icon Fonts](#icon-fonts)
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
-- [Stock Music & Sound Effects](#stock-music--sound-effects)
+- [Stock Music](#stock-music)
 - [Vectors & Clip Art](#vectors--clip-art)
 - [Product & Image Mockups](#product--image-mockups)
 - [HTML & CSS Templates](#html--css-templates)
@@ -96,7 +96,7 @@
 | [TypeKit Practice](https://practice.typekit.com/)| Learn about typography practices |
 | [Golden Ratio](https://grtcalculator.com/)| Golden Ratio Typography Calculator |
 | [FontGet](https://www.fontget.com/) | Has a variety of fonts available to download and sorted neatly with tags |
-| [FontPair](https://fontpair.co/) | Helps you pair Google Fonts together
+| [FontPair](https://fontpair.co/) | Free fonts and font pairings to use for your next design project. |
 | [Font Space](https://www.fontspace.com/)| A designer-centered free font website that has quick customizable previews |
 | [Abstract Fonts](http://www.abstractfonts.com/)| Fonts free for personal and commercial use |
 | [Free Typography](https://freetypography.com/)| A list of high quality fonts |
@@ -129,7 +129,7 @@
 | [Coolors](https://coolors.co)| Create the perfect palette or get inspired by thousands of beautiful color schemes |
 | [UI Colors](https://uicolors.app/create) | Tailwind CSS color palette generator |
 | [HTML Color Codes](https://htmlcolorcodes.com/)| Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names |
-| [Colors & Fonts](https://www.colorsandfonts.com/)| A curated library of colors, fonts and resources |
+| [Colors & Fonts](https://www.colorsandfonts.com/)| Color & typography tools for web developers & digital designers. |
 | [Palette List](https://www.palettelist.com/)| Pick 2 colors you like and the tool generates thousands of palettes for you. |
 | [Google Material Color Tool](https://material.io/resources/color/)| Official Google Material Color Palette Tool|
 | [Adobe Color](https://color.adobe.com/create)| Create color palettes, extract gradients from images, etc. |
@@ -341,7 +341,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Stock Music & Sound Effects
+## Stock Music
 
 >Websites that offer free stock music and/or sound effects
 
