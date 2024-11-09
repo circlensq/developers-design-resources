@@ -13,7 +13,7 @@
 - [Stock Photos](#stock-photos)
 - [Stock Videos](#stock-videos)
 - [Stock Music](#stock-music)
-- [Vectors & Clip Art](#vectors--clip-art)
+- [Vectors](#vectors)
 - [Product & Image Mockups](#product--image-mockups)
 - [HTML & CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
@@ -359,7 +359,7 @@
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Vectors & Clip Art
+## Vectors
 
 >Free vectors, clipart, illustrations, patterns and more
 
