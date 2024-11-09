@@ -378,6 +378,7 @@
 | [BGjar](https://bgjar.com) |Free svg background generator for your websites, blogs and app. |
 | [Tabbied](https://tabbied.com/) | Create and customize minimally generated patterns/artwork to use for background images, print and other projects. |
 | [Mossaik](https://mossaik.app/) | Free SVG generator with different tools, waves, tiles, blobs, and more. |
+| [handy-arrows](https://handyarrows.com/) | A gallery of hand-drawn arrows and other design resources as SVGs that can be easily copied as SVG code or React components for use in your projects. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -732,6 +733,7 @@
 | [Shoutem UI](https://shoutem.github.io/docs/ui-toolkit/introduction)| Shoutem UI toolkit enables you to build professionally looking React Native apps with ease.  |
 | [Moti](https://moti.fyi/)| Moti is the universal animation package for React Native |
 | [Tamagui](https://tamagui.dev/)| Universal React design systems that optimize for native & web. |
+| [NativeWind](https://www.nativewind.dev/)| NativeWind allows you to use Tailwind CSS to style your components in React Native. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
