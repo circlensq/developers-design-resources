@@ -903,6 +903,7 @@
 | [Dark Mode Design](https://www.darkmodedesign.com/)| A showcase of beautifully designed and inspiring dark mode websites. |
 | [Uiland](https://uiland.design/)| Explore mobile and web UI designs from leading companies. |
 | [Navbar Gallery](https://www.navbar.gallery/) | Find the best navigation inspiration examples for your design.|
+| [Pure Landing Page](https://purelanding.page/) | Design inspiration featuring only the top designs in the industry.|
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>

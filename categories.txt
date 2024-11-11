@@ -1,0 +1,42 @@
+Accessibility, AI, Colors, CSS, Design, JavaScript UI Libraries, Mockup, Stock, Tools, Typography, UI Kits, Vectors
+
+
+Vectors: Free vectors, clipart, illustrations, patterns and more.
+Accessibility: https://www.30secondsofcode.org/
+
+Design:
+Design Inspiration
+Logos
+Favicons
+Icons
+Design System
+
+CSS:
+Frameworks:
+References: properties
+Tools: http://flexboxfroggy.com/
+
+UI Components: Tools for creating user interfaces with components or UI kits
+Creative Tim
+DaisyUI
+Fast
+Flowbite 
+Headless UI
+
+JavaScript UI Libraries:
+Animation
+Angular 
+React
+Svelte 
+Vue
+
+Stock:
+Photo
+Video
+Sound
+
+Tools:
+Browser extensions
+Design Software
+Image Compression
+Others -> list again the resources and put into the correct category
